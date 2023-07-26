@@ -1,2 +1,2 @@
 # Django-Project2
-Blog app -add blog , delete blog ,search blog
+Blog app -add blog , delete blog ,Edit Blog
